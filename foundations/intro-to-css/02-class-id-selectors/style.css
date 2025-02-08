@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Paragraphs with red background */
+.red {
+    background-color: #f99f9f;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* Paragraphs with red background and bigger font */
+.red.bigger {
+    font-size: 24px;
+}
+
+#secondElement {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#fourthElement {
+    background-color: rgb(166, 255, 166);
+    font-size: 24px;
+    font-weight: bold;
+}
